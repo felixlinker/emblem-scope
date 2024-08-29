@@ -2,7 +2,27 @@
 
 ## Background
 
-During armed conflicts, infrastructure marked with certain distinctive emblems or signs, including the Red Cross, Red Crescent, and Red Crystal, are given special protections under International Humanitarian Law (IHL) and cannot be attacked under almost all circumstances. As conflicts now involve cyberattacks against digital resources, clear authenticated communication of equivalent digital emblems for digital assets can facilitate compliance with IHL and foster stronger protection of medical and humanitarian resources. Extending digital emblems must be accessible through well-known, consensus mechanisms that are respected, verifiable, and accountable against misuse.
+During armed conflict, certain humanitarian infrastructure enjoys special protection under International Humanitarian Law (IHL) and must be respected and protected by all parties to the conflict.
+IHL defines a number of physical emblems, including the Red Cross, Red Crescent, and Red Crystal, that signal this protection in the physical world.
+However, there is no way to signal this protection in the digital world.
+
+As conflicts now increasingly take place in the digital world, signalling protection using equivalent digital emblems facilitates the protection of medical and humanitarian digital assets.
+Digital emblems must be accessible through well-known mechanisms and must be respected, verifiable, and accountable against misuse.
+
+## Goals
+
+The working seeks to develop a mechanism that:
+
+- can signal that a digital asset enjoys protection under IHL using network interfaces;
+- parties to a conflict are willing to use; such parties typically intend to engage in offensive operations and, for example, will not tolerate signalling this intention.
+
+## Non-Goals
+
+* Technical protections against cyberattack
+  * Distinctive emblems and signs are protective because of IHL and the respect of those symbols. The group will not consider work on defining mechanisms to directly protect against cyberattack.
+
+* Deconfliction
+  * Notification or identification of physical resources or locations of people or resources to protect from physical attacks are accomplished through other methods, including physical emblems and deconfliction lines. This group will not design systems for labeling physical assets or indicating protection against physical or kinetic attack.
 
 ## Program of work
 
@@ -18,11 +38,3 @@ During armed conflicts, infrastructure marked with certain distinctive emblems o
 3. Develop protocol extensions for distributing and communicating emblems through existing networking transports that are determined to meet the requirements from Section 1. Work with existing WGs that own the selected transport protocols.
 
 4. Describe any additional needs for developing, deploying, and monitoring a system in practice, including in times of conflict.
-
-### Out of scope
-
-* Technical protections against cyberattack 
-  * Distinctive emblems and signs are protective because of international humanitarian law and the respect of those symbols. The group will not consider work on defining mechanisms to directly protect against cyberattack.
-
-* Deconfliction
-  * Notification or identification of physical resources or locations of people or resources to protect from physical attacks are accomplished through other methods, including physical emblems and deconfliction lines. This group will not design systems for labeling physical assets or indicating protection against physical or kinetic attack.
