@@ -7,7 +7,7 @@ IHL defines a number of physical emblems, including the Red Cross, Red Crescent,
 However, there is no way to visually signal this protection when the emblem-bearing asset is a digital concept and therefore has no equivalent physical form to which a visual representation of an emblem can be applied. Such digital assets are both inspectable and attackable without kinetic means or ever seeing the visual form of whatever real hardware is running the digital asset. 
 
 As conflicts now increasingly take place in the digital world, signalling protection using equivalent digital emblems facilitates the protection of medical and humanitarian digital assets.
-Digital emblems must be accessible through well-known mechanisms and must be respected, verifiable, and accountable against misuse.
+Digital emblems must be accessible through well-known mechanisms and must be recognizable, verifiable, and accountable against misuse to enable good-faith actors to respect the meaning of the emblem.
 
 ## Goals
 
