@@ -2,18 +2,20 @@
 
 ## Background
 
-During armed conflict, certain humanitarian infrastructure enjoys special protection under International Humanitarian Law (IHL) which mandates that such infrastructure must be respected and protected by all parties to the conflict.
-IHL defines a number of physical emblems, including the Red Cross, Red Crescent, and Red Crystal, that visually signal this protection for physical assets using simple representations that enable the easy adoption and recognition needed for these emblems to be widely adopted in real conflict environments.
-However, there is no way to visually signal this protection when the emblem-bearing asset is a digital concept and therefore has no equivalent physical form to which a visual representation of an emblem can be applied. Such digital assets are both inspectable and attackable without kinetic means or ever seeing the visual form of whatever real hardware is running the digital asset. 
+During armed conflict, humanitarian infrastructure enjoys special protection under International Humanitarian Law (IHL) which mandates that such infrastructure must be respected and protected by all parties to the conflict.
+IHL defines a number of physical emblems, including the Red Cross, Red Crescent, and Red Crystal, which visually signal protection under IHL for physical assets.
+These physical emblems have been adopted and recognized widely in real conflict environments.
 
-As conflicts now increasingly take place in the digital world, signalling protection using equivalent digital emblems facilitates the protection of medical and humanitarian digital assets.
-Digital emblems must be accessible through well-known mechanisms and must be recognizable, verifiable, and accountable against misuse to enable good-faith actors to respect the meaning of the emblem.
+Nowadays, conflicts increasingly take place in the digital world and digital assets can likewise enjoy protection under IHL.
+However, digital assets (as of now) cannot signal their protection to those interacting with them by digital means.
+We seek to develop a digital emblem that signals protection under IHL using digital means so that medical and humanitarian digital assets can also advertise their protection.
+Such a digital emblem would need be accessible through well-known mechanisms, easily recognizable, verifiable, and accountable against misuse to enable good-faith actors to respect it.
 
 ## Goals
 
-The working seeks to develop a mechanism that:
+The working group seeks to develop a mechanism that:
 
-- can signal that a digital asset enjoys protection under IHL using network interfaces (so that targets attackable by network communication can also present emblems through network communication);
+- can signal that a digital asset enjoys protection under IHL using network interfaces (so that targets using network communication can also present emblems through network communication);
 - parties to a conflict are willing to use; such parties typically intend to engage in offensive operations and, for example, will not tolerate signalling this intention.
 
 ## Non-Goals
