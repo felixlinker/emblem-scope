@@ -2,7 +2,7 @@
 
 ## Background
 
-During armed conflict, certain humanitarian infrastructure enjoys special protection under International Humanitarian Law (IHL) and must be respected and protected by all parties to the conflict.
+During armed conflict, certain humanitarian infrastructure enjoys special protection under International Humanitarian Law (IHL) which mandates that such infrastructure must be respected and protected by all parties to the conflict.
 IHL defines a number of physical emblems, including the Red Cross, Red Crescent, and Red Crystal, that visually signal this protection for physical assets using simple representations that enable the easy adoption and recognition needed for these emblems to be widely adopted in real conflict environments.
 However, there is no way to visually signal this protection when the emblem-bearing asset is a digital concept and therefore has no equivalent physical form to which a visual representation of an emblem can be applied. Such digital assets are both inspectable and attackable without kinetic means or ever seeing the visual form of whatever real hardware is running the digital asset. 
 
@@ -13,7 +13,7 @@ Digital emblems must be accessible through well-known mechanisms and must be rec
 
 The working seeks to develop a mechanism that:
 
-- can signal that a digital asset enjoys protection under IHL using network interfaces;
+- can signal that a digital asset enjoys protection under IHL using network interfaces (so that targets attackable by network communication can also present emblems through network communication);
 - parties to a conflict are willing to use; such parties typically intend to engage in offensive operations and, for example, will not tolerate signalling this intention.
 
 ## Non-Goals
@@ -22,7 +22,7 @@ The working seeks to develop a mechanism that:
   * Distinctive emblems and signs are protective because of IHL and the respect of those symbols. The group will not consider work on defining mechanisms to directly protect against cyberattack.
 
 * Deconfliction
-  * Notification or identification of physical resources or locations of people or resources to protect from physical attacks are accomplished through other methods, including physical emblems and deconfliction lines. This group will not design systems for labeling physical assets or indicating protection against physical or kinetic attack.
+  * Notification or identification of physical resources or locations of people or resources to protect from physical attacks are accomplished through other methods, including physical emblems and deconfliction lines. This group will not design systems for labeling physical assets or indicating protection against physical or kinetic attack, only digital attacks (where there may be a physical and digital form for the same asset).
 
 ## Program of work
 
