@@ -6,7 +6,7 @@ During armed conflict, humanitarian infrastructure enjoys special protection und
 IHL defines a number of physical emblems, including the Red Cross, Red Crescent, and Red Crystal, which visually signal protection under IHL for physical assets.
 These physical emblems have been adopted and recognized widely in real conflict environments.
 
-Nowadays, conflicts increasingly take place in the digital world and digital assets can likewise enjoy protection under IHL.
+Nowadays, conflicts increasingly take place in the digital world and digital assets also already enjoy protection under IHL.
 However, digital assets (as of now) cannot signal their protection to those interacting with them by digital means.
 We seek to develop a digital emblem that signals protection under IHL using digital means so that medical and humanitarian digital assets can also advertise their protection.
 Such a digital emblem would need be accessible through well-known mechanisms, easily recognizable, verifiable, and accountable against misuse to enable good-faith actors to respect it.
@@ -16,7 +16,8 @@ Such a digital emblem would need be accessible through well-known mechanisms, ea
 The working group seeks to develop a mechanism that:
 
 - can signal that a digital asset enjoys protection under IHL using network interfaces (so that targets using network communication can also present emblems through network communication);
-- parties to a conflict are willing to use; such parties typically intend to engage in offensive operations and, for example, will not tolerate signalling this intention.
+- parties to a conflict are willing to use (because probing for a digital emblem does not identify a cyber operator as a potential threat actor); 
+- has design agreement with the necessary legal guardians of the in-scope IHL emblems (so that the working group's produced work can actually be used for its intended purpose);
 
 ## Non-Goals
 
@@ -30,7 +31,7 @@ The working group seeks to develop a mechanism that:
 
 1. Define the requirements for authenticating, distributing, and the digital distinctive emblems and signs under IHL for network endpoints and resources. Requirements will include:
 * authenticatable by multiple, decentralized sources;
-* covert inspection;
+* inspectable without identifying the inspector as a potential threat actor;
 * extendable and removable;
 * accountable for misuse;
 * resilient and implementable, including in times of conflict.
