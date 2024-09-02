@@ -2,7 +2,7 @@
 
 ## Background
 
-During armed conflict, humanitarian infrastructure enjoys special protection under International Humanitarian Law (IHL) which mandates that such infrastructure must be respected and protected by all parties to the conflict.
+During armed conflict, medical and certain humanitarian infrastructure enjoys special protection under International Humanitarian Law (IHL) which mandates that such infrastructure must be respected and protected by all parties to the conflict.
 IHL defines a number of physical emblems, including the Red Cross, Red Crescent, and Red Crystal, which visually signal protection under IHL for physical assets.
 These physical emblems have been adopted and recognized widely in real conflict environments.
 
