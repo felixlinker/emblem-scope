@@ -31,11 +31,11 @@ The working group seeks to develop a mechanism that:
 ## Program of work
 
 1. Define the requirements for authenticating, distributing, and the digital distinctive emblems and signs under IHL for network endpoints and resources. Requirements will include:
-* authenticatable by multiple, decentralized sources;
-* inspectable without identifying the inspector as a potential threat actor;
-* extendable and removable;
-* accountable for misuse;
-* resilient and implementable, including in times of conflict.
+    - authenticatable by multiple, decentralized sources;
+    - inspectable without identifying the inspector as a potential threat actor;
+    - extendable and removable;
+    - accountable for misuse;
+    - resilient and implementable, including in times of conflict.
 
 2. Develop a protocol for authenticating and verifying emblems attached to or indicated for network endpoints and resources.
 
