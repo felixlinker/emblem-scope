@@ -11,7 +11,7 @@ However, digital assets (as of now) cannot signal protection to those interactin
 We seek to develop a digital emblem that signals protection under IHL using digital means so that medical and humanitarian digital assets can also advertise their protection.
 Such a digital emblem would need be accessible through well-known mechanisms, easily recognizable, verifiable, and accountable against misuse to enable good-faith actors to respect it.
 
-Work on marking such a digital emblem should be conducted in close collaboration with all relevant legal guardians of the in-scope IHL emblems so that all results can actually be used for its intended purpose.
+Work on marking such a digital emblem should be conducted in close collaboration with all relevant legal guardians of the in-scope IHL emblems so that all results can actually be used for their intended purpose.
 
 ## Goals
 
